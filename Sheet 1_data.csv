@@ -1,0 +1,375 @@
+﻿Case Type,Country Region,Latitude (generated),Longitude (generated),Cases
+Deaths,Zimbabwe,-19.098,30.047,235
+Deaths,Zambia,-15.13,25.268,278
+Deaths,Yemen,15.569,47.793,1161
+Deaths,Western Sahara,24.4813,-13.6266,10
+Deaths,West Bank and Gaza,32.097,35.26,140
+Deaths,Vietnam,21.75,105.373,0
+Deaths,Venezuela,6.983,-64.588,677
+Deaths,Uzbekistan,41.757,63.958,578
+Deaths,US,40.0792,-98.8164,4162893
+Deaths,Uruguay,-32.948,-56.249,982
+Deaths,United Kingdom,52.289,-1.259,1678116
+Deaths,United Arab Emirates,23.9299,53.9031,8711
+Deaths,Ukraine,49.364,32.132,21847
+Deaths,Uganda,1.9392,32.7415,0
+Deaths,Turkey,39.144,34.188,193318
+Deaths,Tunisia,35.594,9.421,2612
+Deaths,Trinidad and Tobago,10.4435,-61.2604,525
+Deaths,Togo,7.7,1.106,536
+Deaths,Timor-Leste,-8.856,125.556,0
+Deaths,Thailand,15.688,100.845,3215
+Deaths,Tanzania,-5.651,34.146,872
+Deaths,Tajikistan,38.367,72.597,1105
+Deaths,Taiwan*,23.6091,120.8353,469
+Deaths,Syria,35.303,38.322,204
+Deaths,Switzerland,46.7794,8.0329,104070
+Deaths,Sweden,66.2188,19,168880
+Deaths,Suriname,4.248,-55.848,63
+Deaths,Sudan,15.739,29.533,5079
+Deaths,Sri Lanka,7.3,80.727,522
+Deaths,Spain,40.617,-3.388,1546134
+Deaths,South Sudan,7.1,30.48,156
+Deaths,South Africa,-31.7,23.441,14254
+Deaths,Somalia,2.875,43.446,2241
+Deaths,Slovenia,46.037,14.534,5456
+Deaths,Slovakia,48.8595,19.4434,1208
+Deaths,Singapore,1.3389,103.8297,1058
+Deaths,Sierra Leone,8.677,-11.779,1083
+Deaths,Seychelles,-4.6841,55.4924,0
+Deaths,Serbia,44.021,20.699,11019
+Deaths,Senegal,15.044,-15.081,1066
+Deaths,Saudi Arabia,24.191,44.32,14422
+Deaths,Sao Tome and Principe,0.216,6.595,261
+Deaths,San Marino,43.942,12.4611,2860
+Deaths,Saint Vincent and the Grenadines,13.2528,-61.1949,0
+Deaths,Saint Lucia,13.909,-60.9776,0
+Deaths,Saint Kitts and Nevis,17.147,-62.58,0
+Deaths,Rwanda,-1.887,29.904,9
+Deaths,Russia,64.736,104.062,112954
+Deaths,Romania,45.933,25.119,49735
+Deaths,Qatar,25.3174,51.1522,969
+Deaths,Portugal,40.957,-7.9373,62143
+Deaths,Poland,52.442,19.72,41391
+Deaths,Philippines,17.181,121.256,39046
+Deaths,Peru,-12.664,-72.98,111937
+Deaths,Paraguay,-23.266,-58.409,603
+Deaths,Papua New Guinea,-5.636,142.798,0
+Deaths,Panama,8.348,-81.005,12905
+Deaths,Pakistan,28.1854,66.6429,38303
+Deaths,Oman,19.85,56.25,1182
+Deaths,Norway,61.3701,9.3031,12488
+Deaths,North Macedonia,41.636,21.676,5060
+Deaths,Nigeria,9.3417,7.678,7311
+Deaths,Niger,16.996,9.915,2378
+Deaths,Nicaragua,12.692,-85.03,665
+Deaths,New Zealand,-42.558,172.377,1015
+Deaths,Netherlands,52.1704,5.0102,297901
+Deaths,Nepal,28.2114,83.5608,93
+Deaths,Namibia,-21.276,17.219,0
+Deaths,Mozambique,-13.852,38.042,19
+Deaths,Morocco,31.129,-7.355,10548
+Deaths,Montenegro,42.857,19.096,437
+Deaths,Mongolia,46.516,102.564,0
+Deaths,Monaco,43.7384,7.4243,213
+Deaths,Moldova,47.524,28.444,9198
+Deaths,Mexico,22.925,-101.68,230089
+Deaths,Mauritius,-20.2529,57.5902,631
+Deaths,Mauritania,19.413,-10.6528,341
+Deaths,Malta,35.9024,14.4137,288
+Deaths,Mali,18.211,-2.209,2251
+Deaths,Maldives,4.221,73.463,137
+Deaths,Malaysia,4.416,102.099,6560
+Deaths,Malawi,-13.2731,33.7428,170
+Deaths,Madagascar,-19.615,46.645,64
+Deaths,Luxembourg,49.671,6.113,5773
+Deaths,Lithuania,55.342,24.23,2919
+Deaths,Liechtenstein,47.1593,9.547,62
+Deaths,Libya,27.24,17.571,160
+Deaths,Liberia,6.51,-9.33,1000
+Deaths,Lesotho,-29.446,28.371,0
+Deaths,Lebanon,34.161,36.021,1634
+Deaths,Latvia,57.017,25.0173,895
+Deaths,Laos,19.595,102.538,0
+Deaths,Kyrgyzstan,41.741,75.043,634
+Deaths,Kuwait,29.3169,47.4272,4434
+Deaths,Kosovo,42.546,20.921,1324
+Deaths,"Korea, South",36.338,128.16,18417
+Deaths,Kenya,0.806,38.166,1909
+Deaths,Kazakhstan,48.866,69.772,1661
+Deaths,Jordan,30.681,36.279,529
+Deaths,Japan,35.962,137.855,32412
+Deaths,Jamaica,18.163,-77.477,475
+Deaths,Italy,44.3713,11.1084,1868769
+Deaths,Israel,30.992,34.834,13375
+Deaths,Ireland,53.214,-7.588,70267
+Deaths,Iraq,33.545,43.278,7846
+Deaths,Iran,33.408,54.0418,423262
+Deaths,Indonesia,-0.739,114.045,57538
+Deaths,India,22.741,78.236,132685
+Deaths,Iceland,64.826,-18.417,611
+Deaths,Hungary,47.174,19.618,20351
+Deaths,Honduras,14.881,-87.123,6368
+Deaths,Holy See,41.9038,12.4532,0
+Deaths,Haiti,19.3175,-72.4205,935
+Deaths,Guyana,5.17,-58.939,567
+Deaths,Guinea-Bissau,12.191,-14.475,170
+Deaths,Guinea,10.599,-10.907,648
+Deaths,Guatemala,15.124,-90.711,2079
+Deaths,Grenada,12.111,-61.6867,0
+Deaths,Greece,39.787,21.617,9102
+Deaths,Ghana,7.258,-1.062,1262
+Deaths,Germany,51.3819,9.9877,396493
+Deaths,Georgia,42.05,43.576,494
+Deaths,Gambia,13.499,-14.641,74
+Deaths,Gabon,-0.406,11.914,455
+Deaths,France,46.656,2.543,1469256
+Deaths,Finland,62.716,26.192,12997
+Deaths,Fiji,-17.7941,177.9783,0
+Deaths,Ethiopia,8.435,38.786,293
+Deaths,Eswatini,-26.5203,31.4607,84
+Deaths,Estonia,58.777,25.977,3169
+Deaths,Eritrea,15.982,38.02,0
+Deaths,Equatorial Guinea,1.6342,10.4695,276
+Deaths,El Salvador,13.848,-89.229,1189
+Deaths,Egypt,26.16,28.742,30173
+Deaths,Ecuador,-1.151,-78.308,103640
+Deaths,Dominican Republic,19.01,-70.1685,20807
+Deaths,Dominica,15.4238,-61.3411,0
+Deaths,Djibouti,11.41,42.165,386
+Deaths,Denmark,56.113,9.096,28592
+Deaths,Czechia,49.848,15.2812,15005
+Deaths,Cyprus,34.894,32.928,969
+Deaths,Cuba,20.571,-76.456,3611
+Deaths,Cruise Ship,,,1288
+Deaths,Croatia,45.754,16.385,4368
+Deaths,Cote d'Ivoire,7.497,-5.336,1137
+Deaths,Costa Rica,10.126,-84.075,446
+Deaths,Congo (Kinshasa),-1.418,23.607,2625
+Deaths,Congo (Brazzaville),0.509,16.08,664
+Deaths,Comoros,-11.6527,43.3307,39
+Deaths,Colombia,3.794,-73.606,26404
+Deaths,China,35.1753,99.3877,426399
+Deaths,Chile,-23.176,-69.201,24089
+Deaths,Chad,15.981,18.781,1618
+Deaths,Central African Republic,7.043,21.424,26
+Deaths,Canada,59.2067,-111.1937,245364
+Deaths,Cameroon,4.4,12.131,5773
+Deaths,Cambodia,12.69,104.444,0
+Deaths,Cabo Verde,15.416,-23.36,140
+Deaths,Burundi,-3.333,29.749,53
+Deaths,Burma,21.841,96.05,321
+Deaths,Burkina Faso,12.673,-1.226,2774
+Deaths,Bulgaria,42.625,24.521,5044
+Deaths,Brunei,4.452,114.557,78
+Deaths,Brazil,-11.694,-48.978,704282
+Deaths,Botswana,-22.126,23.662,66
+Deaths,Bosnia and Herzegovina,44.342,17.804,5697
+Deaths,Bolivia,-16.71,-65.183,7914
+Deaths,Bhutan,27.5342,90.3002,0
+Deaths,Benin,10.478,2.274,110
+Deaths,Belize,17.108,-88.744,116
+Deaths,Belgium,50.6745,4.4588,447865
+Deaths,Belarus,53.3292,27.9492,7142
+Deaths,Barbados,13.1898,-59.559,367
+Deaths,Bangladesh,24.598,90.1963,15856
+Deaths,Bahrain,26.025,50.5534,659
+Deaths,Bahamas,24.7032,-78.0455,620
+Deaths,Azerbaijan,40.46,47.883,1986
+Deaths,Austria,47.65,14.705,34440
+Deaths,Australia,-24.578,133.582,5486
+Deaths,Armenia,40.56,44.449,3194
+Deaths,Argentina,-33.166,-64.31,17518
+Deaths,Antigua and Barbuda,17.625,-61.786,167
+Deaths,Angola,-12.836,17.808,167
+Deaths,Andorra,42.5425,1.5893,2678
+Deaths,Algeria,28.6045,2.64,29104
+Deaths,Albania,40.654,20.076,1926
+Deaths,Afghanistan,34.023,65.5267,7012
+Confirmed,Zimbabwe,-19.098,30.047,3410
+Confirmed,Zambia,-15.13,25.268,24926
+Confirmed,Yemen,15.569,47.793,5771
+Confirmed,Western Sahara,24.4813,-13.6266,388
+Confirmed,West Bank and Gaza,32.097,35.26,24013
+Confirmed,Vietnam,21.75,105.373,21485
+Confirmed,Venezuela,6.983,-64.588,38052
+Confirmed,Uzbekistan,41.757,63.958,136955
+Confirmed,US,40.0792,-98.8164,73158080
+Confirmed,Uruguay,-32.948,-56.249,44196
+Confirmed,United Kingdom,52.289,-1.259,11634123
+Confirmed,United Arab Emirates,23.9299,53.9031,1044662
+Confirmed,Ukraine,49.364,32.132,784900
+Confirmed,Uganda,1.9392,32.7415,9920
+Confirmed,Turkey,39.144,34.188,7342848
+Confirmed,Tunisia,35.594,9.421,62088
+Confirmed,Trinidad and Tobago,10.4435,-61.2604,8138
+Confirmed,Togo,7.7,1.106,12830
+Confirmed,Timor-Leste,-8.856,125.556,1215
+Confirmed,Thailand,15.688,100.845,197708
+Confirmed,Tanzania,-5.651,34.146,22350
+Confirmed,Tajikistan,38.367,72.597,68147
+Confirmed,Taiwan*,23.6091,120.8353,31830
+Confirmed,Syria,35.303,38.322,3549
+Confirmed,Switzerland,46.7794,8.0329,1990534
+Confirmed,Sweden,66.2188,19,1493094
+Confirmed,Suriname,4.248,-55.848,984
+Confirmed,Sudan,15.739,29.533,99720
+Confirmed,Sri Lanka,7.3,80.727,49430
+Confirmed,Spain,40.617,-3.388,14042683
+Confirmed,South Sudan,7.1,30.48,16217
+Confirmed,South Africa,-31.7,23.441,744077
+Confirmed,Somalia,2.875,43.446,54579
+Confirmed,Slovenia,46.037,14.534,96388
+Confirmed,Slovakia,48.8595,19.4434,83551
+Confirmed,Singapore,1.3389,103.8297,1171393
+Confirmed,Sierra Leone,8.677,-11.779,19490
+Confirmed,Seychelles,-4.6841,55.4924,821
+Confirmed,Serbia,44.021,20.699,526786
+Confirmed,Senegal,15.044,-15.081,101251
+Confirmed,Saudi Arabia,24.191,44.32,2295114
+Confirmed,Sao Tome and Principe,0.216,6.595,9679
+Confirmed,San Marino,43.942,12.4611,38056
+Confirmed,Saint Vincent and the Grenadines,13.2528,-61.1949,1018
+Confirmed,Saint Lucia,13.909,-60.9776,1137
+Confirmed,Saint Kitts and Nevis,17.147,-62.58,935
+Confirmed,Rwanda,-1.887,29.904,15752
+Confirmed,Russia,64.736,104.062,11108581
+Confirmed,Romania,45.933,25.119,823851
+Confirmed,Qatar,25.3174,51.1522,1416414
+Confirmed,Portugal,40.957,-7.9373,1603921
+Confirmed,Poland,52.442,19.72,918453
+Confirmed,Philippines,17.181,121.256,639422
+Confirmed,Peru,-12.664,-72.98,3973392
+Confirmed,Paraguay,-23.266,-58.409,32075
+Confirmed,Papua New Guinea,-5.636,142.798,431
+Confirmed,Panama,8.348,-81.005,474349
+Confirmed,Pakistan,28.1854,66.6429,1822571
+Confirmed,Oman,19.85,56.25,255993
+Confirmed,Norway,61.3701,9.3031,539630
+Confirmed,North Macedonia,41.636,21.676,96833
+Confirmed,Nigeria,9.3417,7.678,245296
+Confirmed,Niger,16.996,9.915,46029
+Confirmed,Nicaragua,12.692,-85.03,11217
+Confirmed,New Zealand,-42.558,172.377,94943
+Confirmed,Netherlands,52.1704,5.0102,2494412
+Confirmed,Nepal,28.2114,83.5608,23234
+Confirmed,Namibia,-21.276,17.219,1223
+Confirmed,Mozambique,-13.852,38.042,6728
+Confirmed,Morocco,31.129,-7.355,310587
+Confirmed,Montenegro,42.857,19.096,20223
+Confirmed,Mongolia,46.516,102.564,4784
+Confirmed,Monaco,43.7384,7.4243,6429
+Confirmed,Moldova,47.524,28.444,283608
+Confirmed,Mexico,22.925,-101.68,2195665
+Confirmed,Mauritius,-20.2529,57.5902,21406
+Confirmed,Mauritania,19.413,-10.6528,7092
+Confirmed,Malta,35.9024,14.4137,32209
+Confirmed,Mali,18.211,-2.209,38003
+Confirmed,Maldives,4.221,73.463,42874
+Confirmed,Malaysia,4.416,102.099,419973
+Confirmed,Malawi,-13.2731,33.7428,4731
+Confirmed,Madagascar,-19.615,46.645,17745
+Confirmed,Luxembourg,49.671,6.113,254328
+Confirmed,Lithuania,55.342,24.23,91413
+Confirmed,Liechtenstein,47.1593,9.547,5935
+Confirmed,Libya,27.24,17.571,4308
+Confirmed,Liberia,6.51,-9.33,10239
+Confirmed,Lesotho,-29.446,28.371,41
+Confirmed,Lebanon,34.161,36.021,58372
+Confirmed,Latvia,57.017,25.0173,58126
+Confirmed,Laos,19.595,102.538,1218
+Confirmed,Kyrgyzstan,41.741,75.043,57729
+Confirmed,Kuwait,29.3169,47.4272,617200
+Confirmed,Kosovo,42.546,20.921,47399
+Confirmed,"Korea, South",36.338,128.16,961900
+Confirmed,Kenya,0.806,38.166,46076
+Confirmed,Kazakhstan,48.866,69.772,297929
+Confirmed,Jordan,30.681,36.279,36061
+Confirmed,Japan,35.962,137.855,846168
+Confirmed,Jamaica,18.163,-77.477,23836
+Confirmed,Italy,44.3713,11.1084,13991688
+Confirmed,Israel,30.992,34.834,976997
+Confirmed,Ireland,53.214,-7.588,1220227
+Confirmed,Iraq,33.545,43.278,192440
+Confirmed,Iran,33.408,54.0418,7148362
+Confirmed,Indonesia,-0.739,114.045,834655
+Confirmed,India,22.741,78.236,4395537
+Confirmed,Iceland,64.826,-18.417,124530
+Confirmed,Hungary,47.174,19.618,174785
+Confirmed,Honduras,14.881,-87.123,122893
+Confirmed,Holy See,41.9038,12.4532,720
+Confirmed,Haiti,19.3175,-72.4205,29560
+Confirmed,Guyana,5.17,-58.939,5932
+Confirmed,Guinea-Bissau,12.191,-14.475,33820
+Confirmed,Guinea,10.599,-10.907,112556
+Confirmed,Guatemala,15.124,-90.711,97583
+Confirmed,Grenada,12.111,-61.6867,1247
+Confirmed,Greece,39.787,21.617,175854
+Confirmed,Ghana,7.258,-1.062,223558
+Confirmed,Germany,51.3819,9.9877,10695564
+Confirmed,Georgia,42.05,43.576,35149
+Confirmed,Gambia,13.499,-14.641,1050
+Confirmed,Gabon,-0.406,11.914,55392
+Confirmed,France,46.656,2.543,10441318
+Confirmed,Finland,62.716,26.192,331101
+Confirmed,Fiji,-17.7941,177.9783,1141
+Confirmed,Ethiopia,8.435,38.786,21257
+Confirmed,Eswatini,-26.5203,31.4607,8237
+Confirmed,Estonia,58.777,25.977,110943
+Confirmed,Eritrea,15.982,38.02,2457
+Confirmed,Equatorial Guinea,1.6342,10.4695,30063
+Confirmed,El Salvador,13.848,-89.229,57472
+Confirmed,Egypt,26.16,28.742,606837
+Confirmed,Ecuador,-1.151,-78.308,1528388
+Confirmed,Dominican Republic,19.01,-70.1685,570156
+Confirmed,Dominica,15.4238,-61.3411,1105
+Confirmed,Djibouti,11.41,42.165,85999
+Confirmed,Denmark,56.113,9.096,622911
+Confirmed,Czechia,49.848,15.2812,510562
+Confirmed,Cyprus,34.894,32.928,53961
+Confirmed,Cuba,20.571,-76.456,91809
+Confirmed,Cruise Ship,,,79977
+Confirmed,Croatia,45.754,16.385,133187
+Confirmed,Cote d'Ivoire,7.497,-5.336,97400
+Confirmed,Costa Rica,10.126,-84.075,52090
+Confirmed,Congo (Kinshasa),-1.418,23.607,71169
+Confirmed,Congo (Brazzaville),0.509,16.08,18065
+Confirmed,Comoros,-11.6527,43.3307,1619
+Confirmed,Colombia,3.794,-73.606,719073
+Confirmed,China,35.1753,99.3877,9628865
+Confirmed,Chile,-23.176,-69.201,2222910
+Confirmed,Chad,15.981,18.781,18124
+Confirmed,Central African Republic,7.043,21.424,16423
+Confirmed,Canada,59.2067,-111.1937,3727966
+Confirmed,Cameroon,4.4,12.131,167424
+Confirmed,Cambodia,12.69,104.444,9146
+Confirmed,Cabo Verde,15.416,-23.36,12711
+Confirmed,Burundi,-3.333,29.749,1326
+Confirmed,Burma,21.841,96.05,9172
+Confirmed,Burkina Faso,12.673,-1.226,44641
+Confirmed,Bulgaria,42.625,24.521,105396
+Confirmed,Brunei,4.452,114.557,10695
+Confirmed,Brazil,-11.694,-48.978,11310710
+Confirmed,Botswana,-22.126,23.662,1445
+Confirmed,Bosnia and Herzegovina,44.342,17.804,115254
+Confirmed,Bolivia,-16.71,-65.183,198559
+Confirmed,Bhutan,27.5342,90.3002,958
+Confirmed,Benin,10.478,2.274,8804
+Confirmed,Belize,17.108,-88.744,1059
+Confirmed,Belgium,50.6745,4.4588,3005609
+Confirmed,Belarus,53.3292,27.9492,1218122
+Confirmed,Barbados,13.1898,-59.559,5391
+Confirmed,Bangladesh,24.598,90.1963,1016822
+Confirmed,Bahrain,26.025,50.5534,317403
+Confirmed,Bahamas,24.7032,-78.0455,5018
+Confirmed,Azerbaijan,40.46,47.883,163220
+Confirmed,Austria,47.65,14.705,1069610
+Confirmed,Australia,-24.578,133.582,470916
+Confirmed,Armenia,40.56,44.449,233301
+Confirmed,Argentina,-33.166,-64.31,434860
+Confirmed,Antigua and Barbuda,17.625,-61.786,1558
+Confirmed,Angola,-12.836,17.808,2632
+Confirmed,Andorra,42.5425,1.5893,48703
+Confirmed,Algeria,28.6045,2.64,324422
+Confirmed,Albania,40.654,20.076,51425
+Confirmed,Afghanistan,34.023,65.5267,321697
